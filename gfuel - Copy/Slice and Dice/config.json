@@ -1,0 +1,9 @@
+{
+  "classPath": [
+    "dice.jar"
+  ],
+  "mainClass": "com.tann.dice.desktop.DicetopLauncher",
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}
